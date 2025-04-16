@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(fruit_vehicle_arm)
+project(Modelling_Mobile_7DoF_Agriculture_Robot)
 
 if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
   add_compile_options(-Wall -Wextra -Wpedantic)
@@ -40,7 +40,7 @@ DESTINATION share/${PROJECT_NAME}/
 )
 
 install(
-    DIRECTORY include/fruit_vehicle_arm
+    DIRECTORY include/Modelling_Mobile_7DoF_Agriculture_Robot
     DESTINATION include
     )
 
