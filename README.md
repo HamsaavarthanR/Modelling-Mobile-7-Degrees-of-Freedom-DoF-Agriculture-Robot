@@ -12,7 +12,7 @@
 * Assisted in the design and construction of a mobile truck and harvester-arm system with 7 DoF using SolidWorks (CAD), compatible to simulate using ROS2 and Gazebo, capable of automated traversal and fruit harvesting using vacuum gripper.
 * Executed accurate mathematical modelling to the robotic arm’s kinetics and dynamics, acquiring 100% virtually simulable model by analyzing Denavit-Hartenberg parameters, enhancing simulation performance.
 
-## Contributors:
+## Contributors
 * Hamsaavarthan Ravichandar
 * Robens Midy Cyprien
 * Kent-Diens Joseph
